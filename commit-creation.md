@@ -16,7 +16,7 @@ That is how you setup your local git. Now its time to create your changes.
     
     a. `git add <file name>` will add a single changed file.
     
-    b. `git add .` will stage all of the changed files.
+    b. `git commit -p -m "<Commit name/description>"` will stage files, and create a commit, but allows you to confirm that you want to make each change.
     
     c. `git commit -m "<Commit name/description>"` will create the commit. Be sure to replace "<Commit name/description>" with a description of what your commit changes.
     
