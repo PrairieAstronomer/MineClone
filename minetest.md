@@ -45,6 +45,13 @@ And install it on your system:
 
     make install
     
+    
+If you run Ubuntu, another way to get minetest is:
+
+    sudo add-apt-repository ppa:minetestdevs/stable
+    sudo apt update
+    sudo apt install minetest
+    
 ## Mac
 Follow instructions [here](https://www.minetest.net/downloads/)
 
